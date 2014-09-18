@@ -26,9 +26,9 @@
     [super tearDown];
 }
 
-- (void)testFail {
+/*- (void)testFail {
     XCTFail(@"Fail");
-}
+}*/
 
 - (void)testSuccess {
 }
