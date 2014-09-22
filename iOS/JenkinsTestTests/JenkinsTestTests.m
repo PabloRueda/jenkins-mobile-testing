@@ -7,6 +7,7 @@
 //
 
 #import <XCTest/XCTest.h>
+#import "ViewController.h"
 
 @interface JenkinsTestTests : XCTestCase
 

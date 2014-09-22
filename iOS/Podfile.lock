@@ -20,14 +20,17 @@ PODS:
   - AFNetworking/UIKit (2.4.1):
     - AFNetworking/NSURLConnection
     - AFNetworking/NSURLSession
+  - Calabash (0.10.0.pre8)
   - Objection (1.4)
 
 DEPENDENCIES:
   - AFNetworking
+  - Calabash
   - Objection
 
 SPEC CHECKSUMS:
   AFNetworking: 0aabc6fae66d6e5d039eeb21c315843c7aae51ab
+  Calabash: aa2ea59a696c40211254479e495e35b6d5886034
   Objection: 8176a996209cdcd23490c57d6e807a25faa8d54d
 
 COCOAPODS: 0.33.1
