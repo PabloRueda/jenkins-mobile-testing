@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JenkinsTest</string>
+    <string name="not_clicked">Not clicked</string>
+    <string name="clicked">Clicked</string>
+    <string name="click_here">Click here</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
