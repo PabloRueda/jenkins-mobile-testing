@@ -1,4 +1,4 @@
-## iOS, Configuración básica Jenkins:
+# Configuración básica Jenkins:
 
 ### Plugins necesarios:
 
@@ -22,6 +22,7 @@ SMTP: smtp.gmail.com
 Usar seguridad SSL: sí
 Puerto SMTP: 465
 
+# iOS
 
 ## OCUnit tests:
 
@@ -93,3 +94,5 @@ En la última línea le especificamos, primero que ejecutamos los tests, le indi
 Posteriormente agregamos en la tarea de Jenkins una "acción para ejecutar después" de tipo "Cucumber json test reporting", que transformará el fichero de json en datos de tests leibles por Jenkins.
 
 Como paso adicional podemos agregar otra acción para que envíe un email en caso de que los tests fallen.
+
+# Android
